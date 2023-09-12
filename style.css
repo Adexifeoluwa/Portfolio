@@ -510,8 +510,8 @@ nav li:first-child {
 }
 
 .blackbox2 {
-  font-size: 0.8rem;
-  line-height: 1.5rem;
+  font-size: 0.5rem;
+  line-height:80px
   width: 1400px;
   font-family: cursive;
 }
