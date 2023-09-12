@@ -509,6 +509,11 @@ nav li:first-child {
   padding-bottom: 5rem;
 }
 
+.blackbox2 {
+  font-size: 1.2rem;
+  line-height: 1.7;  
+}
+
 #about-nav {
   font-family: cursive;
 }
