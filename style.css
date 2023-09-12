@@ -510,9 +510,10 @@ nav li:first-child {
 }
 
 .blackbox2 {
-  font-family: var(--sans);
-  font-size: 1.0rem;
-  line-height: 1.9;  
+  font-size: 1.5rem;
+  line-height: 1.5;
+  width: 1400px;
+  font-family: cursive;
 }
 
 #about-nav {
