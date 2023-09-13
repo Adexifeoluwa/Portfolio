@@ -522,6 +522,9 @@ nav li:first-child {
   padding: 20px; 
   width: 120px;
   height: 80px; 
+  background-size: contain;
+  object-position: center top;
+  position:relative; left:700px; top:2px
 } 
 
 #about-nav {
