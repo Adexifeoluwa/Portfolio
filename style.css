@@ -517,11 +517,9 @@ nav li:first-child {
 }
 
 #rcorners3 {
-  border-radius: 15px 50px;
   padding: 20px; 
   width: 200px;
   height: 150px; 
-  background-size: contain;
   position:relative; left:700px; top:2px
 } 
 
