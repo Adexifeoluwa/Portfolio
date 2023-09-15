@@ -461,7 +461,7 @@ nav li:first-child {
 }
 
 .skills {
-  padding: 3rem 1rem 6rem 1rem;
+  padding: 0rem 0rem 0rem 0rem;
   max-width: 1200px;
   margin: auto;
 }
