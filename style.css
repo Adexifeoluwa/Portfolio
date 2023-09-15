@@ -524,9 +524,9 @@ nav li:first-child {
 } 
 
 .logos {
-    width: 22%;
-    height: 22%;
-    position:relative; left:200px; bottom:60px;
+    width: 20%;
+    height: 20%;
+    position:relative; left:300px; bottom:60px;
 }
 
 #about-nav {
