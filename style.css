@@ -526,6 +526,7 @@ nav li:first-child {
 .logos {
     width: 20%;
     height: 20%;
+    position:relative; left:200px; bottom:6px
 }
 
 #about-nav {
