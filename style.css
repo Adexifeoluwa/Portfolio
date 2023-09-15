@@ -523,6 +523,11 @@ nav li:first-child {
   position:right;
 } 
 
+.logos {
+    width: 20%;
+    height: 20%;
+}
+
 #about-nav {
   font-family: cursive;
 }
