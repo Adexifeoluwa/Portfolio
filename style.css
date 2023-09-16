@@ -529,6 +529,10 @@ nav li:first-child {
   position: relative; left: 180px; bottom: 37px;
 }
 
+.skillsexp {
+    padding: 0rem 0rem 0rem 0rem;
+}
+
 .exper {
   position: relative; bottom: 90px;
   padding-bottom: -900rem;
