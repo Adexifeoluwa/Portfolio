@@ -223,7 +223,7 @@ nav h1 a [class*="button"] {
 
 footer {
   text-align: center;
-  padding: 4rem 0;
+  padding: 0rem 0rem 0rem 0rem;
 }
 
 footer ul {
